@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Themes>
+    <Theme name="Light">
+        <Background>#FFFFFF</Background>
+        <Foreground>#000000</Foreground>
+        <ButtonBackground>#E0E0E0</ButtonBackground>
+        <ButtonForeground>#000000</ButtonForeground>
+        <FontFamily>Arial</FontFamily>
+        <FontSize>12</FontSize>
+    </Theme>
+    <Theme name="Dark">
+        <Background>#000000</Background>
+        <Foreground>#FFFFFF</Foreground>
+        <ButtonBackground>#333333</ButtonBackground>
+        <ButtonForeground>#FFFFFF</ButtonForeground>
+        <FontFamily>Arial</FontFamily>
+        <FontSize>12</FontSize>
+    </Theme>
+</Themes>
